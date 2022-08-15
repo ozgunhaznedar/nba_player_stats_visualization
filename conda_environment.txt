@@ -1,0 +1,12 @@
+
+# CREATING CONDA ENVIRONMENT
+conda create --name tableau_nba python">=3.6"
+conda activate tableau_nba
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=tableau_nba
+pip install nb_black
+conda install -c anaconda beautifulsoup4
+conda install -c conda-forge selenium
+conda install pandas
+pip3 install lxml
+conda install -c conda-forge matplotlib
