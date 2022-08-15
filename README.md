@@ -8,13 +8,17 @@
 ## Project Intro/Objective
 The purpose of this project is to visualize the NBA teams and players for each season starting from 1997 and to understand key players of a team in each season.
 
-### Methods Used
+## tableau Visualization Link
+https://public.tableau.com/views/NBAStatsforTeamsandPlayerssince1997/SeasonDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+## Methods Used
 * Exploratory Data Analysis
 * Data Visualization
 * Webscraping
 
 
-### Technologies
+## Technologies
 
 * Python
 * Pandas, jupyter
