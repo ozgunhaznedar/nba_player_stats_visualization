@@ -31,3 +31,4 @@ https://public.tableau.com/views/NBAStatsforTeamsandPlayerssince1997/SeasonDashb
 ## Project article
 
 More detailed explanation about the project can be found in the medium article.
+https://medium.com/@ozgunhaznedar/nba-team-analyzes-dashboard-with-tableau-public-72eb87e8d838
